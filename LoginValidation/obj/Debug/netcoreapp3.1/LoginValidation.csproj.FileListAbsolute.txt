@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\WhileLoops\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.exe
+C:\Users\opilane\source\repos\WhileLoops\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.deps.json
+C:\Users\opilane\source\repos\WhileLoops\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.runtimeconfig.json
+C:\Users\opilane\source\repos\WhileLoops\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\WhileLoops\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.dll
+C:\Users\opilane\source\repos\WhileLoops\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.pdb
+C:\Users\opilane\source\repos\WhileLoops\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\WhileLoops\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WhileLoops\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WhileLoops\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WhileLoops\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.dll
+C:\Users\opilane\source\repos\WhileLoops\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.pdb
+C:\Users\opilane\source\repos\WhileLoops\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.genruntimeconfig.cache
